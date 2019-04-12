@@ -1,4 +1,8 @@
 test.py
+<<<<<<< HEAD
+=======
+
+>>>>>>> 036d43de8ab8e914dd090666b73b003b703855f1
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
